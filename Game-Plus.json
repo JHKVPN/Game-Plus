@@ -50,15 +50,29 @@
 {
          "name": "SG-VIP.010",
          "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/Singapore-010.ovpn"
+      },
+
+{
+         "name": "TH-VIP.001",
+         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/TH-001.ovpn"
+      },
+
+{
+         "name": "TH-VIP.002",
+         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/TH-002.ovpn"
+      },
+
+{
+         "name": "TH-VIP.003",
+         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/TH-003.ovpn"
       }
 
 
 
-
    ],
-"message":"10 March 2023\n\n•Add Singapore 10ဖိုင်\n\n•Version:1\n\n•📢By : JueHtet📢",
+"message":"10 March 2023\n\n•Add Singapore 10ဖိုင်\n\n•Version:2\n\n•📢By : JueHtet📢",
    "title":"♻️ Game Plus VPN ♻️" ,
-   "version": 1
+   "version": 2
 }
 
 
