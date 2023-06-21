@@ -3,138 +3,51 @@
 
 
 {
-         "name": "SG-VIP.001",
-         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/SG-001.ovpn"
-      },
-
-{
-         "name": "SG-VIP.002",
-         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/SG-002.ovpn"
-      },
-
-{
-         "name": "SG-VIP.003",
-         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/SG-003.ovpn"
-      },
-
-{
-         "name": "SG-VIP.004",
-         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/SG-004.ovpn"
-      },
-
-{
-         "name": "SG-VIP.005",
-         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/SG-005.ovpn"
-      },
-
-{
-         "name": "SG-VIP.006",
-         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/SG-006.ovpn"
-      },
-
-{
-         "name": "SG-VIP.007",
-         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/SG-007.ovpn"
-      },
-
-{
-         "name": "SG-VIP.008",
-         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/SG-008.ovpn"
-      },
-
-{
-         "name": "SG-VIP.009",
-         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/SG-009.ovpn"
-      },
-
-{
-         "name": "SG-VIP.010",
-         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/SG-010.ovpn"
-      },
-
-
-{
-         "name": "SG-VIP.011",
-         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/SG-011.ovpn"
-      },
-
-{
-         "name": "SG-VIP.012",
-         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/SG-012.ovpn"
-      },
-
-{
-         "name": "SG-VIP.013",
-         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/SG-013.ovpn"
-      },
-
-{
-         "name": "SG-VIP.014",
-         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/SG-014.ovpn"
-      },
-
-{
-         "name": "SG-VIP.015",
-         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/SG-015.ovpn"
-      },
-
-
-{
-         "name": "SG-VIP.016",
-         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/SG-016.ovpn"
-      },
-
-{
-         "name": "SG-VIP.017",
-         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/SG-017.ovpn"
-      },
-
-{
-         "name": "SG-VIP.018",
-         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/SG-018.ovpn"
-      },
-
-{
-         "name": "SG-VIP.019",
-         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/SG-019.ovpn"
-      },
-
-{
-         "name": "SG-VIP.020",
-         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/SG-020.ovpn"
-      },
-
-{
          "name": "TH-VIP.001",
-         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/TH-001.ovpn"
+         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/TH-01.ovpn"
       },
 
 {
          "name": "TH-VIP.002",
-         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/TH-002.ovpn"
+         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/TH-02.ovpn"
       },
 
 {
          "name": "TH-VIP.003",
-         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/TH-003.ovpn"
+         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/TH-03.ovpn"
       },
 
 {
          "name": "TH-VIP.004",
-         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/TH-004.ovpn"
+         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/TH-04.ovpn"
       },
 
 {
          "name": "TH-VIP.005",
-         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/TH-005.ovpn"
+         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/TH-05.ovpn"
+      },
+
+      
+{
+         "name": "TH-VIP.006",
+         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/TH-06.ovpn"
+      },
+
+{
+         "name": "TH-VIP.007",
+         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/TH-07.ovpn"
+      },
+
+{
+         "name": "TH-VIP.008",
+         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/TH-08.ovpn"
       }
 
 
-
    ],
-"message":"6 May 2023\n\n•Add Singapore 20ဖိုင်\n\n•Version:4\n\n•📢By : JueHtet📢",
+"message":"21 June 2023\n\n•Version:5\n\n•📢By : JueHtet📢",
    "title":"♻️ Game Plus VPN ♻️" ,
-   "version": 4
+   "version": 5
 }
 
 
