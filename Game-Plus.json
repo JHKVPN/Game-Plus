@@ -41,13 +41,28 @@
 {
          "name": "TH-VIP.008",
          "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/TH-08.ovpn"
-      }
+      },
+
+{
+         "name": "TH-VIP.009",
+         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/TH-09.ovpn"
+      },
+
+{
+         "name": "TH-VIP.010",
+         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/TH-10.ovpn"
+      },
+
+{
+         "name": "TH-VIP.011",
+         "url": "https://raw.githubusercontent.com/GamerVPN/Game-Plus/main/TH-11.ovpn"
+       }
 
 
    ],
-"message":"21 June 2023\n\n•Version:5\n\n•📢By : JueHtet📢",
+"message":"8 July 2023\n\n•Version:6\n\n•📢By : JueHtet📢",
    "title":"♻️ Game Plus VPN ♻️" ,
-   "version": 5
+   "version": 6
 }
 
 
